@@ -3,7 +3,7 @@
 Code and materials for the paper *Reduced-order modeling with a regression-aware autoencoder*.
 
 ## Our methodology
-![Screenshot](figures/autoencoder-scheme.pdf)
+![Screenshot](figures/autoencoder-scheme.png)
 
 ## Code
 
